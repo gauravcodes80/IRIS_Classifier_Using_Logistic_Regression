@@ -33,4 +33,5 @@ Displays a probability curve using matplotlib<br>
 📈 Visualization
 The project plots the probability curve showing how the likelihood of a flower being Virginica changes with petal width.
 
-![Logistic_regression](https://github.com/user-attachments/assets/7070cf4a-4eaf-4bad-bbd4-19a184b3861f)
+![Logistic_regression](https://github.com/user-attachments/assets/043323f8-07d4-470a-9188-943693857466)
+
