@@ -1,5 +1,3 @@
-# IRIS_Logistic_Regression
-
 # 🌸 Iris Virginica Classifier using Logistic Regression<br>
 
 This project demonstrates a simple **binary classification** using **logistic regression** to determine whether a given iris flower is of the *Virginica* species based on its **petal width**.<br>
